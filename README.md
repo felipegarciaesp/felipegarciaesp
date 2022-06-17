@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe 👋
+### 👋 Hi there, I'm Felipe 
 
 <!--
 **felipegarciaesp/felipegarciaesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,8 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
+- Find me around the web:
+  - You can see my professional profile in [Linkedin](www.linkedin.com/in/felipegarciaesp)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
