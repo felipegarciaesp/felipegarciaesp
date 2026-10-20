@@ -1,4 +1,4 @@
-# Felipe García Espinoza
+# Felipe García Espinosa
 
 Este espacio reúne códigos y planillas que me han sido útiles y que sigo utilizando en el desarrollo de proyectos de ingeniería hidráulica. La idea es facilitar el acceso a cada recurso mediante enlaces y acompañarlo con una explicación de su propósito y uso.
 
