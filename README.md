@@ -17,3 +17,13 @@ En esta sección reúno códigos y planillas que utilizo en el desarrollo de pro
 ### [Extracción de datos estaciones DGA](https://github.com/felipegarciaesp/Datos_DGA)
 
 Este código automatiza la extracción de datos de estaciones meteorológicas de la DGA a partir de archivos `.txt` descargados desde la [plataforma nueva de la DGA](https://mapas2.mop.gob.cl/).
+
+### Cálculo de caudales máximos
+
+#### [Planilla para el cálculo del Método Racional](https://github.com/felipegarciaesp/Metodo_Racional)
+
+Planilla para estimar el caudal máximo de escorrentía mediante el Método Racional, a partir del área de la cuenca, la intensidad de la lluvia y el coeficiente de escorrentía.
+
+#### [Código para determinar el Hidrograma Unitario Sintético del SCS](https://github.com/felipegarciaesp/HU_SCS)
+
+Este código permite construir el Hidrograma Unitario Sintético del Soil Conservation Service (SCS) para representar la respuesta de una cuenca ante una lluvia efectiva.
