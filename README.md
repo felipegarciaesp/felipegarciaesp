@@ -14,7 +14,9 @@ Puedes escribirme a [felipegarcia.esp@gmail.com](mailto:felipegarcia.esp@gmail.c
 
 En esta sección reúno códigos y planillas que utilizo en el desarrollo de proyectos de ingeniería hidráulica, con enlaces y una breve explicación de cada recurso.
 
-### [Extracción de datos estaciones DGA](https://github.com/felipegarciaesp/Datos_DGA)
+### Extracción y procesamiento de datos meteorológicos, fluviométricos y otros
+
+#### [Código para la extracción de datos de estaciones DGA](https://github.com/felipegarciaesp/Datos_DGA)
 
 Este código automatiza la extracción de datos de estaciones meteorológicas de la DGA a partir de archivos `.txt` descargados desde la [plataforma nueva de la DGA](https://mapas2.mop.gob.cl/).
 
