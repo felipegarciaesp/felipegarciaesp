@@ -1,27 +1,17 @@
-# 👋 Hi there, I'm Felipe 
+# Felipe García Espinoza
 
-<!--
-**felipegarciaesp/felipegarciaesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este espacio reúne códigos y planillas que me han sido útiles y que sigo utilizando en el desarrollo de proyectos de ingeniería hidráulica. La idea es facilitar el acceso a cada recurso mediante enlaces y acompañarlo con una explicación de su propósito y uso.
 
-Here are some ideas to get you started:-->
+## Sobre mí
 
-<p><a href="https://imgur.com/mSJUzHj"><img src = "https://i.imgur.com/mSJUzHj.jpg" width="100%" title="descripcion de la imagen"/></a></p>
+Ingeniero Civil Hidráulico (USM) con diplomado en Modelación Hidrológica de Cuencas (UChile) y Diplomado en Data Science (UDD). Profesional enfocado en la resolución técnica de problemas de ingeniería, proactivo y comprometido con la organización a la cual pertenezco. Ingeniero que busca la resolución eficiente de los problemas de ingeniería, facilitando el flujo de trabajo mediante códigos y planillas automatizadas, priorizando la legibilidad y el orden. Cuenta con experiencia profesional en el desarrollo de estudios de hidrología y cambio climático, diseño de obras hidráulicas y confección/revisión de modelos de balances de agua.
 
+## Códigos y planillas
 
-## 🔭 I’m currently working on ...
-## :earth_americas: Find me around the web:
-  - Coding in [GitHub](https://github.com/felipegarciaesp)
-  - Sharing information, comments and opinions in [Twitter](https://twitter.com/FelipeGarciaEsp)
-  - You can see my professional profile in [Linkedin](https://linkedin.com/in/felipegarciaesp)
-## :heavy_check_mark:Technologies I know and use:
-  -<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  -<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-  -<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-## 🌱 I’m currently learning ...
-## 👯 I’m looking to collaborate on ...
-## 🤔 I’m looking for help with ...
-## 💬 Ask me about ...
-## 📫 How to reach me: ...
-## 😄 Pronouns: ...
-## ⚡ Fun fact: ...
+En esta sección iré organizando los recursos disponibles con un enlace a cada código o planilla y una breve descripción de su aplicación. Mientras tanto, puedes revisar mis repositorios en [GitHub](https://github.com/felipegarciaesp).
 
+## Contacto
+
+Puedes escribirme a [felipegarcia.esp@gmail.com](mailto:felipegarcia.esp@gmail.com).
+
+También puedes encontrarme en [LinkedIn](https://linkedin.com/in/felipegarciaesp).
