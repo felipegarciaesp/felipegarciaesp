@@ -20,6 +20,12 @@ En esta sección reúno códigos y planillas que utilizo en el desarrollo de pro
 
 Este código automatiza la extracción de datos de estaciones meteorológicas de la DGA a partir de archivos `.txt` descargados desde la [plataforma nueva de la DGA](https://mapas2.mop.gob.cl/).
 
+### Productos grillados
+
+#### [Código para extraer datos del producto grillado CR2MET](https://github.com/felipegarciaesp/Extraer_CR2MET_punto)
+
+Este código permite extraer datos del producto grillado CR2MET a partir de las coordenadas de un punto.
+
 ### Cálculo de caudales máximos
 
 #### [Planilla para el cálculo del Método Racional](https://github.com/felipegarciaesp/Metodo_Racional)
