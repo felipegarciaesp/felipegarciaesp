@@ -35,3 +35,9 @@ Planilla para estimar el caudal máximo de escorrentía mediante el Método Raci
 #### [Código para determinar el Hidrograma Unitario Sintético del SCS](https://github.com/felipegarciaesp/HU_SCS)
 
 Este código permite construir el Hidrograma Unitario Sintético del Soil Conservation Service (SCS) para representar la respuesta de una cuenca ante una lluvia efectiva.
+
+### Procesamiento de cuencas
+
+#### [Código para cortar una cuenca por elevaciones](https://github.com/felipegarciaesp/cortar_raster_LN)
+
+Código para cortar el archivo shape correspondiente a una cuenca en distintas elevaciones. Muy útil si se quiere tener un shape
