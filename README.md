@@ -40,4 +40,4 @@ Este código permite construir el Hidrograma Unitario Sintético del Soil Conser
 
 #### [Código para cortar una cuenca por elevaciones](https://github.com/felipegarciaesp/cortar_raster_LN)
 
-Código para cortar el archivo shape correspondiente a una cuenca en distintas elevaciones. Muy útil si se quiere tener un shape
+Código para cortar el archivo shape correspondiente a una cuenca en distintas elevaciones. Muy útil si se quiere tener un shape de una cuenca para cada elevación de línea de nieves que se tenga o que se requiera analizar.
